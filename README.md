@@ -12,7 +12,7 @@ This Python script allows you to scrape data from a given URL and search for spe
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/nipun014/webscraping.git
    ```
 
 2. Navigate to the project directory:
